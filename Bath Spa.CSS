@@ -4,6 +4,9 @@ body{
 
 #link{
     text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: inherit;
 }
 
 
@@ -13,3 +16,5 @@ body{
      text-align: center;
     color:palevioletred;
 }
+
+
