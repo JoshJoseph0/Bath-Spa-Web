@@ -31,3 +31,10 @@ p{
     color: green;    
     font-size: 15px;
 }
+
+#scroll img{
+    contain: content;
+    border-radius: 30px;
+    right: 100px;
+    height: 485px;
+}
