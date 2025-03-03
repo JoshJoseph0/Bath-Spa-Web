@@ -1,6 +1,15 @@
+body{
+    background-color: lightsteelblue;
+}
+
+#link{
+    text-align: center;
+}
+
+
 #heading{
-    font-size: 200px;
+    font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    align-content: center;
-    color:plum;
+     text-align: center;
+    color:palevioletred;
 }
